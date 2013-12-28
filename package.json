@@ -13,7 +13,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "parse": "node parser.js"
+    "parse": "node parser.js",
+    "postinstall": "./node_modules/bower/bin/bower install"
+
   },
   "author": "Irakli Safareli",
   "license": "BSD-2-Clause",
