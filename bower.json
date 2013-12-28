@@ -1,0 +1,11 @@
+{
+  "name": "word-shuffle",
+  "version": "0.0.0",
+    "devDependencies": {
+    "jquery": "~2.0.3",
+    "handlebars": "~1.1.2",
+    "q": "~0.9.7",
+    "requirejs": "~2.1.9",
+    "topcoat": "~0.8.0"
+  }
+}

@@ -4,7 +4,9 @@
   "description": "learn sat 5000 words ",
   "main": "parser.js",
   "devDependencies": {
-    "data-file-parser": "0.0.1"
+    "data-file-parser": "0.0.1",
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

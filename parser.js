@@ -1,7 +1,7 @@
 var dataParser = require('data-file-parser');
 dataParser.parse({
-    in: 'data/words.txt',
-    out: 'data/words.js',
+    in: 'www/data/words.txt',
+    out: 'www/data/words.js',
     var:'words',
     // g for global 
     // i for ignore case
